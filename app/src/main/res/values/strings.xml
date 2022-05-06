@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppAvaliacao</string>
+    <string name="txt">Digite os valores:</string>
+    <string name="btn">TESTAR</string>
+</resources>
